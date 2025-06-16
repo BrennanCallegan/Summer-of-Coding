@@ -10,7 +10,7 @@ Summer of Coding is a self-started, Angular based portfolio piece that presents 
 
 - [Time Keeper](https://github.com/BrennanCallegan/Time-Keeper)
 
-- Weather
+- [Weather](https://github.com/BrennanCallegan/Weather)
 
 - Notes
 
