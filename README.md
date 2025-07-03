@@ -12,7 +12,7 @@ Summer of Coding is a self-started, Angular based portfolio piece that presents 
 
 - [Weather](https://github.com/BrennanCallegan/Weather)
 
-- Notes
+- [Corkboard](https://github.com/BrennanCallegan/Corkboard-API)
 
 - Planner
 
